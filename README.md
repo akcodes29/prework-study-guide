@@ -2,7 +2,7 @@
 
 ## Description
 
-I created an unique study guide that visually pops out at the reader due to its calming beautiful colors and easy to read format. My motivation was to have a website that I can refer back to, as well as, add to in the future during my time in the coding bootcamp. It will help me study and keep track of notes in a fun way. I learned an abudent amount of foundational skills relating to HTML, CSS, JS, and GIT that I will use as I grow and become more fluent as a computer programmer.
+I created an unique study guide that visually pops out at the reader due to its calming, beautiful colors and easy to read format. My motivation was to have a website that I can refer back to, as well as, add to in the future during my time in the coding bootcamp. It will help me study and keep track of notes in a fun way. I learned an abudent amount of foundational skills relating to HTML, CSS, JS, and GIT that I will use as I grow and become more fluent as a computer programmer.
 
 ## Installation
 N/A for this project.
